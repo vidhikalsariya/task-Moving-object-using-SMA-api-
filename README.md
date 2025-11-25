@@ -1,7 +1,7 @@
-# task-Moving-object-using-SMA-api-
+# Task-Moving-object-using-SMA-api-
 This project provides a simple and fully working Python script for downloading 1-minute intraday data using yfinance, filtering data between specific entry/exit times, and calculating intraday High &amp; Low for each selected date.
 
-Features
+# Features
 
 Downloads 1-minute intraday OHLCV data using yfinance
 Filters data between entry time (e.g., 09:30) and exit time (15:00)
@@ -12,7 +12,7 @@ Calculates:
 Works for any stock, any date range, and any time window
 clean and easy-to-modify code
 
-How It Works (Steps + Explanation)
+# How It Works (Steps + Explanation)
 
 1️⃣ User Inputs
 You provide:
@@ -52,7 +52,7 @@ Date	High	Low	Range
 STEPS TO RUN THIS PROGRAM
 ------------------------------------------
 
-Follow these steps exactly.
+# Follow these steps exactly.
 
 🟩 STEP 1 — Install required libraries
 Open CMD or VS Code Terminal:
